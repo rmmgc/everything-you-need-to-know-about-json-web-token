@@ -1,0 +1,12 @@
+{
+  "name": "everything-you-need-to-know-about-json-web-token",
+  "version": "1.0.0",
+  "description": "Code samples used in the post I created for wannabedev.io titled - Everything you need to know about JSON Web Token.",
+  "main": "index.js",
+  "type": "module",
+  "author": "Ramo Mujagic <mujagic.ramo@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jose": "^4.14.4"
+  }
+}
