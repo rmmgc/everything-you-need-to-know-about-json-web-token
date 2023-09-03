@@ -45,6 +45,6 @@ _This repository is only made for learning purposes; do not use it in production
 
 ## Misc
 
-Follow WANNABEDEV: [GitHub](https://github.com/wannabedevio), [Twitter (X)](https://twitter.com/wannabedev_io), [Instagram](https://www.instagram.com/wannabedev.io/), [TikTok](https://www.tiktok.com/@wannabedev.io), 
+Follow WANNABEDEV: [GitHub](https://github.com/wannabedevio), [Twitter (X)](https://twitter.com/wannabedev_io), [Instagram](https://www.instagram.com/wannabedev.io/), [TikTok](https://www.tiktok.com/@wannabedev.io)
 
 [© WANNABEDEV 2023](https://wannabedev.io)
